@@ -43,8 +43,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/Armin-FalDis/dst-farming)
-
 In Don't Starve Together, farming is a great way to well... Not Starve ! As such, I created this script to help with finding the optimal crops to grow.
 It is possible to find crop combos that are free (removing the need for you to inject nutrients) as well as those that are possibly more rewarding yet need nutrients.
 
@@ -88,6 +86,9 @@ You need Python3 to run this which can be found [here](https://www.python.org/).
 2. Either use the defaults (press Enter) or give inputs to create the crop list
 3. A CSV file will be created next to main.py which can be opened by text editors or excel
 
+The CSV file contains the list of all the crops per your config.
+Do note that even going through every crop combo is fairly quick so break some eggs. :)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
@@ -96,19 +97,3 @@ You need Python3 to run this which can be found [here](https://www.python.org/).
 Don't Starve Together and Don't Starve belong to [Klei Entertainment](https://www.klei.com/). © All Rights to both games are reserved for Klei Entertainment.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
